@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "requality": {
+            "command": "java",
+            "args": [
+                "-jar",
+                "/Users/l3mac/.requality/requality-mcp-proxy.jar"
+            ]
+        }
+    }
+}
